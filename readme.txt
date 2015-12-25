@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git push.
 Creating a new branch is quick and simple.
 Git not fast forward commit.
+Bug branch on dev.
